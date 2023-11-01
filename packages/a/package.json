@@ -1,0 +1,11 @@
+{
+  "name": "local-package-a",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "local-package-b": "0.1.0"
+  },
+  "devDependencies": {
+    "local-package-c": "0.1.0"
+  }
+}
